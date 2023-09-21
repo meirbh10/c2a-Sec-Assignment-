@@ -1,0 +1,157 @@
+1695318174767	geckodriver	INFO	Listening on 127.0.0.1:51056
+1695318177731	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51057" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\meirb\\AppData\\Local\\Temp\\rust_mozprofile6JaJ58"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695318180764	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695318180917	Marionette	INFO	Listening on port 51064
+WebDriver BiDi listening on ws://127.0.0.1:51057
+Read port: 51064
+1695318181336	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51057/devtools/browser/bebc61a3-630d-4a2c-a94e-b11bdd4c82e1
+[GFX1-]: Failed to create a D3D11 content device: 0x887a0031
+1695318208343	Marionette	INFO	Stopped listening on port 51064
+JavaScript warning: https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js, line 2: Script terminated by timeout at:
+value@https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js:2:1331
+
+Dynamically enable window occlusion 1
+1695318341465	geckodriver	INFO	Listening on 127.0.0.1:51218
+1695318344464	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51219" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\meirb\\AppData\\Local\\Temp\\rust_mozprofile6g234h"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695318345126	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695318345263	Marionette	INFO	Listening on port 51227
+WebDriver BiDi listening on ws://127.0.0.1:51219
+Read port: 51227
+1695318345728	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51219/devtools/browser/bba845d7-5844-46ee-917b-dba4e3fca25f
+[GFX1-]: Failed to create a D3D11 content device: 0x887a0031
+1695318371306	Marionette	INFO	Stopped listening on port 51227
+JavaScript warning: https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js, line 2: Script terminated by timeout at:
+value@https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js:2:1331
+
+Dynamically enable window occlusion 1
+1695320386314	geckodriver	INFO	Listening on 127.0.0.1:64216
+1695320389331	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64217" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\meirb\\AppData\\Local\\Temp\\rust_mozprofileAQ6OZP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695320390024	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695320390154	Marionette	INFO	Listening on port 64225
+WebDriver BiDi listening on ws://127.0.0.1:64217
+Read port: 64225
+1695320390652	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64217/devtools/browser/adc96442-7bb8-485e-81ac-32d608f1fdaf
+[GFX1-]: Failed to create a D3D11 content device: 0x887a0031
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.demoblaze.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.demoblaze.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.demoblaze.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.demoblaze.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.demoblaze.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.demoblaze.com."
+1695320420785	Marionette	INFO	Stopped listening on port 64225
+JavaScript warning: https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js, line 2: Script terminated by timeout at:
+value@https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js:2:1331
+
+Dynamically enable window occlusion 1
+console.error: (new Error("IndexedDB: main/doh-providers getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+console.error: (new Error("IndexedDB: main/doh-config getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+console.error: (new Error("IndexedDB: main/devtools-devices getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1695320457638	geckodriver	INFO	Listening on 127.0.0.1:64315
+1695320460654	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64316" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\meirb\\AppData\\Local\\Temp\\rust_mozprofile0yxUYI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695320461333	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695320461472	Marionette	INFO	Listening on port 64324
+WebDriver BiDi listening on ws://127.0.0.1:64316
+Read port: 64324
+1695320461934	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64316/devtools/browser/925a0128-9a2f-4a3e-a2a5-2d4622f1483c
+[GFX1-]: Failed to create a D3D11 content device: 0x887a0031
+1695320487807	Marionette	INFO	Stopped listening on port 64324
+JavaScript warning: https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js, line 2: Script terminated by timeout at:
+value@https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js:2:1331
+
+Dynamically enable window occlusion 1
+1695320510962	geckodriver	INFO	Listening on 127.0.0.1:64397
+1695320514004	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64398" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\meirb\\AppData\\Local\\Temp\\rust_mozprofile5tixds"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695320514638	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695320514764	Marionette	INFO	Listening on port 64407
+Read port: 64407
+WebDriver BiDi listening on ws://127.0.0.1:64398
+1695320514943	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64398/devtools/browser/92d64a73-3cfe-4dce-8eec-3a61a62bf760
+[GFX1-]: Failed to create a D3D11 content device: 0x887a0031
+1695320541232	Marionette	INFO	Stopped listening on port 64407
+JavaScript warning: https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js, line 2: Script terminated by timeout at:
+value@https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js:2:1331
+
+Dynamically enable window occlusion 1
+1695320568918	geckodriver	INFO	Listening on 127.0.0.1:64480
+1695320571910	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64481" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\meirb\\AppData\\Local\\Temp\\rust_mozprofileoUv6Wi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695320572547	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695320572676	Marionette	INFO	Listening on port 64490
+Read port: 64490
+WebDriver BiDi listening on ws://127.0.0.1:64481
+1695320572848	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64481/devtools/browser/a658ae6d-ed71-421a-ac06-dfbefd5a7f2a
+[GFX1-]: Failed to create a D3D11 content device: 0x887a0031
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.demoblaze.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.demoblaze.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.demoblaze.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.demoblaze.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.demoblaze.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.demoblaze.com."
+1695320603079	Marionette	INFO	Stopped listening on port 64490
+JavaScript warning: https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js, line 2: Script terminated by timeout at:
+value@https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js:2:1331
+
+Dynamically enable window occlusion 1
+console.warn: services.settings: main/normandy-recipes-capabilities sync interrupted by shutdown
+console.warn: services.settings: main/sites-classification sync interrupted by shutdown
+console.warn: services.settings: main/anti-tracking-url-decoration sync interrupted by shutdown
+console.warn: services.settings: main/search-default-override-allowlist sync interrupted by shutdown
+console.warn: services.settings: main/hijack-blocklists sync interrupted by shutdown
+console.warn: services.settings: main/pioneer-study-addons-v1 sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/pioneer-content-v2 getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1695323069933	geckodriver	INFO	Listening on 127.0.0.1:62210
+1695323072958	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62211" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\meirb\\AppData\\Local\\Temp\\rust_mozprofileitQzV5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695323073625	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695323073751	Marionette	INFO	Listening on port 62218
+WebDriver BiDi listening on ws://127.0.0.1:62211
+Read port: 62218
+1695323074221	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62211/devtools/browser/428a2a19-b73d-4029-95ea-c89a2e486714
+[GFX1-]: Failed to create a D3D11 content device: 0x887a0031
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.demoblaze.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.demoblaze.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.demoblaze.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.demoblaze.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.demoblaze.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.demoblaze.com."
+1695323104755	Marionette	INFO	Stopped listening on port 62218
+JavaScript warning: https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js, line 2: Script terminated by timeout at:
+value@https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js:2:1331
+
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:907:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
+
+console.warn: services.settings: main/password-recipes sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/password-rules getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
